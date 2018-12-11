@@ -1,3 +1,4 @@
 # TestRepo
 TestRepo
-Merge2
+Updated to Branch2
+Merge1
