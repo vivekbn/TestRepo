@@ -1,3 +1,3 @@
 # TestRepo
 TestRepo
-AddedBranch1
+Updated to Branch2
